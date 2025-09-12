@@ -1,1 +1,3 @@
-# GAM-305-Team-Project
+## Module Two Team Project Plan
+by: Nicholas Wilkins, Tim Jagielski, Michael May
+
