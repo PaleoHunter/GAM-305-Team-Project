@@ -1,6 +1,8 @@
 ## Module Two Team Project Plan
 Nicholas Wilkins [Member] {Responsibilites: Possible Game Tester
+
 Michael May [Member] {Responsibilites:
+
 Tim Jagielski [Not Assigned Yet] {Responsibilites:
 
 [Team Charter]
@@ -12,7 +14,10 @@ We have been communicating every few days due to are busy schedules. It seems th
 
 [Project Vison and Goals]
 The Project is in a Beta faze as the team is currently making plans and figuring out what we want to do for the final project.
+
 The Project would be in its Alpha faze when the idea becomes more relized with a game and code being developed.
+
+We have come together and decided that we want to make a Top-Down Game with a Medieval theme. Are inspiration is old tower defence games like Plants vs Zombies and a flash game called Dungeon Defender.
 
 ## Module Three Team Development: QA and Testing Plan
 To test out our project we will assign a member to become a game tester. They will play the game to detect any errors or bugs the players could come into contact with. 
