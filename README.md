@@ -28,3 +28,24 @@ I believe it would be a good idea that every time the project is commited or upd
 
 [Schedule]
 We will constantly play test the game during the preproduction to make sure the game runs smoothly. While we might miss some things like every game company in the world, we will create a Demo for players to test out and give feedback. This allows us to make changes and fix any problems before a full release. 
+
+##Module Four Team Refelction
+
+What went Well?
+Nick created a Top-Down player character. He used the help of one of Unreal Engines test projects to get an idea of how it should work. The player character features two types of movement. The first is a point and click and the other is keyboard inputs. This allows players to have a choice on how they want to play the game. 
+
+What would you do differently?:
+
+Possible Bugs
+A bug that was fixed in a matter of minutes was the inputs for the directions being wrong or backwards. It was eventually fixed by adjusting the code to send the right inputs when certain buttons were pressed. It was a simple mistake that could have messed up the team when testing a level layout in the future.
+The one of the issues that we expierenced was a lighting glitch which has been solved as of yet. The lights will work if they are moved then the level is played but as soon as the file is saved the lights wont show up in the playable level. This is an issue that still needs to be solved.
+
+Helpful tools:
+The use of youtube and looking at the basic Unreal Projects that are provided help Nick out when he is working. They give him a clear view of what he is supposed to do or how to fix an issues that he has run into. 
+
+Not so Helpful tools:
+While the internet can be helpful sometimes it never gives you the answers you need sometimes. I encountered an issue with the lighing in the level that I cant find the solution to online. 
+
+I believe without the use of some of these tools the project would take the team way longer to complete and look simple to the eye. These tools allow the team to procure ideas and inspiration that could be inputted into the project and make it more fun or engaging for the player.
+
+
